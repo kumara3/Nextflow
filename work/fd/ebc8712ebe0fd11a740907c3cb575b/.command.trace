@@ -1,0 +1,17 @@
+nextflow.trace/v2
+realtime=2275
+%cpu=2532
+cpu_model=Intel(R) Xeon(R) Gold 6326 CPU @ 2.90GHz
+rchar=12077249
+wchar=5878131
+syscr=7686
+syscw=14900
+read_bytes=4096
+write_bytes=6307840
+%mem=1
+vmem=4348552
+rss=231616
+peak_vmem=4352948
+peak_rss=231728
+vol_ctxt=37
+inv_ctxt=3

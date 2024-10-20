@@ -1,0 +1,10 @@
+PASS	Basic Statistics	NA06984_T_RG2_1.fastq.gz
+PASS	Per base sequence quality	NA06984_T_RG2_1.fastq.gz
+PASS	Per sequence quality scores	NA06984_T_RG2_1.fastq.gz
+WARN	Per base sequence content	NA06984_T_RG2_1.fastq.gz
+WARN	Per sequence GC content	NA06984_T_RG2_1.fastq.gz
+PASS	Per base N content	NA06984_T_RG2_1.fastq.gz
+WARN	Sequence Length Distribution	NA06984_T_RG2_1.fastq.gz
+PASS	Sequence Duplication Levels	NA06984_T_RG2_1.fastq.gz
+WARN	Overrepresented sequences	NA06984_T_RG2_1.fastq.gz
+PASS	Adapter Content	NA06984_T_RG2_1.fastq.gz
